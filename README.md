@@ -52,7 +52,7 @@
 </p>
 
 <p>
-  O enum <code>TipoConta</code> foi utilizado para reforçar a tipagem e facilitar a identificação das contas no sistema. Já a classe <code>BancoKonoha</code> foi responsável por intermediar transferências com uma sobrecarga de métodos para demonstrar polimorfismo.
+  O enum <code>TipoConta</code> foi utilizado para reforçar a tipagem e facilitar a identificação das contas no sistema. Já a classe <code>ContaBancaria</code> foi responsável por intermediar transferências com uma sobrecarga de métodos para demonstrar polimorfismo.
 </p>
 
 <hr>
@@ -64,8 +64,7 @@
 ├── ContaBancaria.java
 ├── ContaCorrente.java
 ├── ContaPoupanca.java
-├── TipoConta.java
-└── BancoKonoha.java
+└── TipoConta.java
 </pre>
 
 <hr>
