@@ -40,7 +40,7 @@
 <ul>
   <li>Implementar um <code>enum</code> chamado <code>TipoConta</code> com os valores <code>CORRENTE</code> e <code>POUPANCA</code>.</li>
   <li>Modificar as classes para usar o enum.</li>
-  <li>Criar uma classe <code>BancoKonoha</code> com método sobrecarregado para realizar transferências entre contas.</li>
+  <li>Criar uma classe <code>ContaBancaria</code> com método sobrecarregado para realizar transferências entre contas.</li>
 </ul>
 
 <hr>
